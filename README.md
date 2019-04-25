@@ -16,4 +16,4 @@ Even more text
 
 ## Copyright
 
-Tbd
+Tbd!
