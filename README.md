@@ -14,6 +14,8 @@ Even more text
 
 ## How To Contribute
 
+Please fork this repo and then issue pull requests for review
+
 ## Copyright
 
 Tbd!
