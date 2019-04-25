@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project  I hope you enjoy
+This is a simple website project  I hope you enjoy for reals.
 
 ## Introduction
 
