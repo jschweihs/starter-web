@@ -13,3 +13,5 @@ Even more text
 ## Delployment
 
 ## How To Contribute
+
+## Copyright
