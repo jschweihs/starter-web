@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project  I hope you enjoy for reals.
+This is a simple website project  I hope you enjoy for reals. Emergency fix after stash.
 
 ## Introduction
 
